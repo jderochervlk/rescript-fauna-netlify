@@ -2,7 +2,9 @@
 
 
 async function $$default(request) {
-  return request.body;
+  return {
+          body: "{\"foo\": \"bar\"}"
+        };
 }
 
 export {
