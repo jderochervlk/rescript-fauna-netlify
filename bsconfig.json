@@ -2,7 +2,7 @@
     "name": "bun-rescript",
     "sources": [
         {
-            "dir": "src",
+            "dir": "functions",
             "subdirs": true
         }
     ],
